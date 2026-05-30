@@ -1,7 +1,7 @@
 [theme]
 
-backgroundColor = "rgba(226, 188, 19, 0.4)"
+backgroundColor = "rgba(0, 0, 0, 0.4)"
 textColor = "#000000"
-secondaryBackgroundColor = "#ffffff85"
+secondaryBackgroundColor = "#ffffff"
 primaryColor = "#ec0909b4"
 font = "bell mt"
